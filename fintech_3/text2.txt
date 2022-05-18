@@ -1,0 +1,7 @@
+The Lord is my strength
+git branch (create a branch)
+git checkout branch_name or git switch branch_name (switch into a branch)
+git checkout -b branch_name (create a branch and switch to it)
+git branch -m new_branch_name (renaming a branch while inside that branch)
+git branch -m new_branch_name fix_bug (renaming a branch while outside that branch)
+git branch -d new_branch_name (deleting a branch , but you must be outside that branch)
